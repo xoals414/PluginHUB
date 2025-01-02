@@ -1,0 +1,9 @@
+name: SDPlugin
+version: '1.0'
+main: org.gumang.sdplugin.sdPlugin
+api-version: '1.21'
+authors: [ Gumang ]
+description: MinecordWhite
+commands:
+  sd:
+    usage: /sd
