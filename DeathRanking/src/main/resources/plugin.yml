@@ -1,0 +1,9 @@
+name: DeathRanking
+version: '1.0'
+main: org.gumang.deathRanking.DeathRanking
+api-version: '1.21'
+authors: [ Gumang ]
+description: DeathRanking
+commands:
+  dera:
+    description: DeathRankingCommand
