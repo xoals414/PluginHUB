@@ -1,0 +1,10 @@
+name: MinecordWhite
+version: '1.0'
+main: org.gumang.minecordWhite.MinecordWhite
+api-version: '1.21'
+authors: [ Gumang ]
+description: MinecordWhite
+commands:
+  mwe:
+    description: MinecordWhite 플러그인 명령어
+    usage: /mwe reload

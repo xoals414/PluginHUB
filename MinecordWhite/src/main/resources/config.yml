@@ -1,0 +1,5 @@
+#디스코드 설정
+discord:
+  token: "YOUR_DISCORD_BOT_TOKEN" #<-- 디스코드 봇 토큰
+
+moreAdd: false  # true로 설정 시 여러 번 추가 가능, false로 설정 시 한 번만 추가 가능
