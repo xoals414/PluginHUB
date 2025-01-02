@@ -1,0 +1,5 @@
+message:
+  join-message:
+    message: "&l[ &a+ &f] &e{player}"
+  quit-message:
+    message: "&l[ &c- &f] &e{player}"

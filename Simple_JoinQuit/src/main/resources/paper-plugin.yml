@@ -1,0 +1,9 @@
+name: Simple_JoinQuit
+version: '1.0'
+main: org.gumang.sImple_JoinQuit.SImple_JoinQuit
+api-version: '1.21'
+authors: [ Gumang ]
+description: Simple Join and Quit Message
+commands:
+  sreload:
+    description: reload config;
