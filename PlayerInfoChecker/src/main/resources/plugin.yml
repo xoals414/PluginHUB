@@ -1,0 +1,8 @@
+name: PlayerJoinCheak
+version: '${project.version}'
+main: org.gumang.playerjoincheak.PlayerJoinCheak
+api-version: '1.21'
+commands:
+    checker:
+        description: PlayerInfoChecker
+        usage: /checker <player>
